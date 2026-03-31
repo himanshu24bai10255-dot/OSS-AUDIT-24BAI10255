@@ -1,0 +1,37 @@
+==================================================================
+                   MY OPEN SOURCE MANIFESTO                       
+==================================================================
+
+  Author  : Himanshu Singhmar (himan)
+  Reg No  : 24BAI10255
+  Date    : 31 March 2026
+  Course  : Open Source Software — OSS Capstone Project
+  Software: Git
+
+------------------------------------------------------------------
+
+  I believe in the power of open source because every day I rely
+  on Git — a tool that someone built and shared freely with the
+  world, asking nothing in return. That act of sharing is not just
+  generosity; it is a philosophy. To me, freedom means Innovation —
+  and that is exactly what open source software gives every person
+  who uses it: the freedom to run, study, modify, and redistribute.
+
+  The open source movement teaches us that knowledge grows when it
+  is shared, not hoarded. When Linus Torvalds released the Linux
+  kernel, or when Git was made open, they did not lose anything —
+  the world gained everything. This is why I commit to carrying
+  that spirit forward. One day, I intend to build Educational Resources and
+  release it openly, so that someone I will never meet can stand
+  on my shoulders, just as I have stood on the shoulders of those
+  who came before me.
+
+  Open source is not just a licensing model. It is a statement
+  about how we believe knowledge and tools should work in the world:
+  openly, collaboratively, and for the benefit of everyone.
+
+------------------------------------------------------------------
+  Signed: Himanshu Singhmar | 31 March 2026
+  'Software is like sex: it is better when it is free.'
+                                              — Linus Torvalds
+==================================================================
